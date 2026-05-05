@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Arduino_DIY.PrjPcb]
+   Generated File[Arduino_DIY-RoundHoles.TXT]
+   Generated File[Arduino_DIY-SlotHoles.TXT]
+   Generated File[Arduino_DIY.LDP]
+   Generated File[Arduino_DIY.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:28:21 PM On 7/17/2025
