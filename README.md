@@ -1,2 +1,2 @@
-# STM32-DIY
-A DIY STM32 for student 
+# Arduino-DIY
+A DIY Arduino for student 
